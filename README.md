@@ -6,7 +6,7 @@ Whether adding a lot or a little, enabling PHP code in your ExpressionEngine tem
 
 ### The Tag
 ```
-{exp:rd_php file="path/to/file.php"}
+{exp:rd_easy_php file="path/to/file.php"}
 ```
 
 ### Requirements
@@ -21,7 +21,7 @@ No problem! This add-on was designed with flexibilty in mind.
 Any parameter you pass to the add-on will be available to the PHP file in the 'template_vars' array. So if I had the following tag...
 
 ```
-{exp:rd_php file="path/to/file.php" tv_show="Stargate"}
+{exp:rd_easy_php file="path/to/file.php" tv_show="Stargate"}
 ```
 
 In my PHP file, I could then access the parameter as follows...
