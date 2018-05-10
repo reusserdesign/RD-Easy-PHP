@@ -1,6 +1,9 @@
 # RD-Easy-PHP
 Whether adding a lot or a little, enabling PHP code in your ExpressionEngine templates can be problematic. We developed this simple add-on to be able to use PHP in templates without having to enable PHP in the template itself.
 
+![](https://img.shields.io/badge/ExpressionEngine-3-3784B0.svg)
+![](https://img.shields.io/badge/ExpressionEngine-4-3784B0.svg)
+
 ### The Tag
 ```
 {exp:rd_php file="path/to/file.php"}
