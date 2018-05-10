@@ -31,5 +31,3 @@ $tv_show = $template_vars['tv_show'];
 ```
 
 You can even get creative and pass grid data into a single parameter, and then use PHP to explode it into a workable array in your file.
-
-**Note: This add-on is being listed as ExpressionEngine 4, as we haven't tested it in ExpressionEngine 3, but it should work in 3 just fine.**
