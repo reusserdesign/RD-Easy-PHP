@@ -1,0 +1,14 @@
+{
+	"tags": {
+		"exp:rd_easy_php": {
+			"documentation": "Simple add-on to be able to use PHP in templates without having to enable PHP in the template itself.",
+			"hasClosingTag": false,
+			"parameters": {
+				"file": {
+					"documentation": "Path to the PHP file.",
+					"detail": "Type: string"
+                }
+			}
+		}
+	}
+}
